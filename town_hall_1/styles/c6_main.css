@@ -103,12 +103,7 @@ article h3 {
 }
 
 /* the styles for the aside */
-aside{
-	width: 215px
-	float: right;
-	padding-left: 20px;
-	padding-bottom: 20px;
-}
+
 }
 aside h3 {
 	font-size: 105%;
