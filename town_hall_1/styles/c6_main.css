@@ -14,17 +14,13 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
-section, aside{
+section{
+	width: 525px;
 	float: right;
+	padding-right: 20px;
 	padding-left: 20px;
 	padding-bottom: 20px;
-section{
-	padding-right: 20px;
 }
-aside{
-	width: 215px;
-}
-
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -58,7 +54,10 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
-
+main{
+}
+main{
+}
 main h1 {
 }
 main h2 {
@@ -102,6 +101,12 @@ article h3 {
 }
 
 /* the styles for the aside */
+aside{
+	width: 215px
+	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
 }
 aside h3 {
 	font-size: 105%;
