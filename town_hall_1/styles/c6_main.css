@@ -102,6 +102,7 @@ article h3 {
 aside{
 	width: 215px;
 	float: right;
+	padding: 0 0 20px 20px;
 }
 aside h3 {
 	font-size: 105%;
