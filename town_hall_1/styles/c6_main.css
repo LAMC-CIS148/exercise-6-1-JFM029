@@ -64,6 +64,10 @@ main{
 main{
 }
 main h1 {
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
 }
 main h2 {
 	color: #800000;
