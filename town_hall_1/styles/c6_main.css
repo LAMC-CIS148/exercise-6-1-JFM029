@@ -110,9 +110,6 @@ article h3 {
 }
 article img{
 	float: right; 
-	margin-top: 10px;
-	margin-bottom: 0;
-	margin-left: 10px;
 	border: 1px solid black;
 	display: block;
 	max-width: 100%;
