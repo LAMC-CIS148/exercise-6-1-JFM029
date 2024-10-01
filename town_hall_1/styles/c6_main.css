@@ -114,6 +114,9 @@ article img{
 	margin-bottom: 0;
 	margin-left: 10px;
 	border: 1px solid black;
+	display: block;
+	max-width: 100%;
+	height: auto;
 }
 /* the styles for the aside */
 aside{
