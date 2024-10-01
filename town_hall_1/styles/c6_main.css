@@ -19,10 +19,10 @@ section, aside{
 	float: right;
 	padding-left: 20px;
 	padding-bottom: 20px;
+}
 section, aside, h2{
 	margin: 0;
 	padding: 0;
-}
 }
 a:focus, a:hover {
 	font-style: italic;
