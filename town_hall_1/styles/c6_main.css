@@ -24,6 +24,9 @@ section, aside, h2{
 	margin: 0;
 	padding: 0;
 }
+section{
+	padding-right: 20px;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
@@ -103,7 +106,8 @@ article h3 {
 }
 
 /* the styles for the aside */
-
+aside{
+	width: 215px
 }
 aside h3 {
 	font-size: 105%;
