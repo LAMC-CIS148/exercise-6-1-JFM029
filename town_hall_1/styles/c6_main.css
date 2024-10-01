@@ -107,6 +107,7 @@ article h2 {
 article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
+}
 article img{
 	float: right; 
 	margin-top: 10px;
@@ -114,8 +115,6 @@ article img{
 	margin-left: 10px;
 	border: 1px solid black;
 }
-}
-
 /* the styles for the aside */
 aside{
 	width: 215px
