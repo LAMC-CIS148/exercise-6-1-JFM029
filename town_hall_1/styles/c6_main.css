@@ -168,6 +168,9 @@ aside img {
 }
 
 /* the styles for the footer */
+ul.circle{
+	list-style-type: circle;
+}
 footer {
 	background-color: #931420;
 	clear: both;
